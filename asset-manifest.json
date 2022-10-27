@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-complete-todo/static/css/main.1e71fca8.css",
+    "main.js": "/react-complete-todo/static/js/main.00290aa7.js",
+    "index.html": "/react-complete-todo/index.html",
+    "main.1e71fca8.css.map": "/react-complete-todo/static/css/main.1e71fca8.css.map",
+    "main.00290aa7.js.map": "/react-complete-todo/static/js/main.00290aa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e71fca8.css",
+    "static/js/main.00290aa7.js"
+  ]
+}
